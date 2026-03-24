@@ -51,4 +51,4 @@ Data Analysis | Business Intelligence | Power BI | DAX | Data Visualization | KP
 
 
 
-*This project showcases my ability to transform raw data into actionable business insights, a critical skill for Analyst roles in MNC organizations.*
+*This project showcases my ability to transform raw data into actionable business insights, a critical skill for Analyst roles in  organizations.*
